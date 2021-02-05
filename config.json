@@ -1,6 +1,6 @@
 {
-  "TOKEN": "BOT_TOKEN",
-  "CHANNEL_ID": "VOICE_CHANNEL_ID",
-  "SERVER_ID": "SERVER_ID",
-  "YT_LINK": "YOUTUBE_VIDEO_LINK"
+  "TOKEN": "BOT_TOKEN",//Obtain bot token from https://discord.com/developers
+  "CHANNEL_ID": "VOICE_CHANNEL_ID",//The voice channel where you want your bot to play music
+  "SERVER_ID": "SERVER_ID",//The server in which your bot should play music
+  "YT_LINK": "YOUTUBE_VIDEO_LINK"//The link of a youtube video or a youtube livestream
 }
