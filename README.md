@@ -1,6 +1,6 @@
-[![discord-24x7-music](https://github-readme-stats.vercel.app/api/pin/?username=navaneethkm004&repo=discord-24x7-music&theme=dark)](https://github.com/navaneethkm004/discord-24x7-music)<br/>
+[![Discord-24x7-Music-YT](https://github-readme-stats.vercel.app/api/pin/?username=navaneethkm004&repo=Discord-24x7-Music-YT&theme=dark)](https://github.com/navaneethkm004/Discord-24x7-Music-YT)<br/>
 
-[![GNU General Public License v3.0](https://img.shields.io/badge/License-GPLv3-blue.svg?maxAge=3600, "License")](https://github.com/navaneethkm004/discord-24x7-music/blob/master/LICENSE) [![Send Message to Author](https://img.shields.io/static/v1?style=flat&logo=twitter&label=Message&color=1da1f2&link=https%3A%2F%2Ftwitter.com%2Fmessages%2Fcompose%3Frecipient_id%714816987336089600&link=https%3A%2F%2Ftwitter.com%2Fmessages%2Fcompose%3Frecipient_id%714816987336089600&message=%40NavaneethKM004&maxAge=3600, "Send Message to Author")](https://twitter.com/messages/compose?recipient_id=714816987336089600)<br>
+[![GNU General Public License v3.0](https://img.shields.io/badge/License-GPLv3-blue.svg?maxAge=3600, "License")](https://github.com/navaneethkm004/Discord-24x7-Music-YT/blob/master/LICENSE) [![Send Message to Author](https://img.shields.io/static/v1?style=flat&logo=twitter&label=Message&color=1da1f2&link=https%3A%2F%2Ftwitter.com%2Fmessages%2Fcompose%3Frecipient_id%714816987336089600&link=https%3A%2F%2Ftwitter.com%2Fmessages%2Fcompose%3Frecipient_id%714816987336089600&message=%40NavaneethKM004&maxAge=3600, "Send Message to Author")](https://twitter.com/messages/compose?recipient_id=714816987336089600)<br>
 
 ## What's this?
 Host your own music streaming bot that stays in a channel forever and streams music!!
@@ -9,7 +9,7 @@ Host your own music streaming bot that stays in a channel forever and streams mu
 
 [<img src="https://github.com/navaneethkm004/my-images/blob/main/no7.png?raw=true">]()
 
-[![Run on Repl.it](https://repl.it/badge/github/navaneethkm004/discord-24x7-music)](https://repl.it/github/navaneethkm004/discord-24x7-music)
+[![Run on Repl.it](https://repl.it/badge/github/navaneethkm004/Discord-24x7-Music-YT)](https://repl.it/github/navaneethkm004/Discord-24x7-Music-YT)
 
 ## Author
 
@@ -20,4 +20,4 @@ Host your own music streaming bot that stays in a channel forever and streams mu
 ## License
 
 This repo is under the GNU General Public License v3.0.<br>
-See [LICENSE](https://github.com/navaneethkm004/discord-24x7-music/blob/master/LICENSE) File.
+See [LICENSE](https://github.com/navaneethkm004/Discord-24x7-Music-YT/blob/master/LICENSE) File.
