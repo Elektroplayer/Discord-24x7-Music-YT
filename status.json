@@ -1,5 +1,5 @@
 { 
-  "STATUS": "STATUS_TEXT",//Put any text you want the bot to show in its status
-  "STATUS_TYPE": "STREAMING",//it can be PLAYING or LISTENING or WATCHING or STREAMING or COMPETING 
-  "STATUS_URL": "https://twitch.com/nocopyrightsounds"//if you chose STREAMING, put a twitch channel link or it will not show status as STREAMING
+  "STATUS": "STATUS_TEXT",
+  "STATUS_TYPE": "STREAMING",
+  "STATUS_URL": "https://twitch.com/nocopyrightsounds"
 }
