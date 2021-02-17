@@ -3,6 +3,7 @@ const { STATUS } = require("./status.json")
 const discord = require("discord.js");
 const client = new discord.Client();
 const ytdl = require('ytdl-core');
+const { keep_alive } = require("./keep_alive");
 
 client.on('ready', async () => {
   console.log("Started streaming " + (YT_LINK) + ` as ${client.user.tag}`);
