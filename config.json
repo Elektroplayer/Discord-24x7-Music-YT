@@ -1,6 +1,5 @@
 {
-  "TOKEN": "BOT_TOKEN",
-  "CHANNEL_ID": "VOICE_CHANNEL_ID",
-  "SERVER_ID": "SERVER_ID",
-  "YT_LINK": "YOUTUBE_VIDEO_LINK"
+    "TOKEN": "token",
+    "STATUS": "status",
+    "LOG_CHANNEL": "chan_id"
 }
